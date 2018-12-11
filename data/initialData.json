@@ -1,0 +1,40 @@
+{
+  "cardResultes": [
+    {
+      "cardHolderName": "WANG JIAN",
+      "cardNumber": "6228523612549999",
+      "cardMonth": "11",
+      "cardYear": "2024",
+      "cardCvv": "153",
+      "cardColor": null,
+      "cardType": "CREDIT"
+    },
+    {
+      "cardHolderName": "WANG DONG",
+      "cardNumber": "6228523612546547",
+      "cardMonth": "10",
+      "cardYear": "2025",
+      "cardCvv": "841",
+      "cardColor": null,
+      "cardType": "CREDIT"
+    },
+    {
+      "cardHolderName": "CHEN JIAN",
+      "cardNumber": "6228523612545236",
+      "cardMonth": "12",
+      "cardYear": "2024",
+      "cardCvv": "536",
+      "cardColor": null,
+      "cardType": "CREDIT"
+    },
+    {
+      "cardHolderName": "WEN WEN",
+      "cardNumber": "6228523612545214",
+      "cardMonth": "03",
+      "cardYear": "2021",
+      "cardCvv": "214",
+      "cardColor": null,
+      "cardType": "CREDIT"
+    }
+  ]
+}
